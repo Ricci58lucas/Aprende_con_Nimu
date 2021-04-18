@@ -1,0 +1,6 @@
+cantidad de respuestas:2
+respuesta correcta:1
+pista:[Pista]
+situación:En la clase de gimnasia, {0} ve que hay un compañero al que lo están dejando a un lado ¿Que podría hacer?
+respuesta 1:Incluirlo al grupo de juego
+respuesta 2:No hacer nada

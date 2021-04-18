@@ -1,0 +1,6 @@
+cantidad de respuestas:2
+respuesta correcta:1
+pista:[Pista]
+situacion:{0} tiene que hacer la tarea, pero tiene ganas de jugar videojuegos. ¿Que tendría que hacer primero?
+respuesta1:Primero tarea
+respuesta2:Primero videojuegos

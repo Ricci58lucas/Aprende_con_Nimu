@@ -1,0 +1,8 @@
+cantidad de respuestas:4
+respuesta correcta:1,4
+pista:[Pista]
+situacion:Los compañeros de {0} le ponen apodos ofensivos debido a que él es bastante más alto que el resto ¿Qué le dirías? 
+respuesta1:No tienes nada de malo, no les hagas caso
+respuesta2:Son solo bromas
+respuesta3:Ponerles apodos para que vean lo que se siente
+respuesta4:Tranquilo, cuentale tu situacion a una autoridad

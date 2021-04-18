@@ -1,0 +1,7 @@
+cantidad de respuestas:3
+respuesta correcta:3
+pista:[Pista]
+situacion:{0} quiere inscribirse en un club de ajedrez para aprender a jugar. Pero tiene miedo de que sus amigos se burlen de él. ¿Qué le dirías?
+respuesta1:Aprende a jugar en secreto, asi nadie se burlará de ti
+respuesta2:El ajedrez es un juego más del montón. Aprende a jugar otro menos aburrido
+respuesta3:Si quieres hacerlo, hazlo. No dejes que sus burlas te impidan hacer lo que te gusta 

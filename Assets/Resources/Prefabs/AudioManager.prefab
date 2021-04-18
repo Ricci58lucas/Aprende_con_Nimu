@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1730530853324777704
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6533791218529545609}
+  - component: {fileID: 5844728081043621466}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6533791218529545609
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1730530853324777704}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5844728081043621466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1730530853324777704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df26a2c7803f64a4d82a4e88813782cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  volumeChangeSpeed: 2
+  mixer: {fileID: 24100000, guid: ac02a044720e65149b71c4475ee0ce43, type: 2}
+  sounds:
+  - name: PeaceAtLast
+    clip: {fileID: 8300000, guid: 8daf496d47cdd4943bed71b7647c8bba, type: 3}
+    volumeMixer: {fileID: 5900801127783364748, guid: ac02a044720e65149b71c4475ee0ce43,
+      type: 2}
+    volume: 0.3
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Button
+    clip: {fileID: 8300000, guid: 5c06ba49441e35b4ebaf97a96baf48d0, type: 3}
+    volumeMixer: {fileID: -804010802758732109, guid: ac02a044720e65149b71c4475ee0ce43,
+      type: 2}
+    volume: 0.7
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Info
+    clip: {fileID: 8300000, guid: 50bab093968e17b4c9a20202550e208e, type: 3}
+    volumeMixer: {fileID: -804010802758732109, guid: ac02a044720e65149b71c4475ee0ce43,
+      type: 2}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Toggle
+    clip: {fileID: 8300000, guid: 5ee919abd5393aa44a1f06c3c228c3a5, type: 3}
+    volumeMixer: {fileID: -804010802758732109, guid: ac02a044720e65149b71c4475ee0ce43,
+      type: 2}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Type
+    clip: {fileID: 8300000, guid: c50b7c92e15d7964f92733d943bdf940, type: 3}
+    volumeMixer: {fileID: -804010802758732109, guid: ac02a044720e65149b71c4475ee0ce43,
+      type: 2}
+    volume: 0.1
+    pitch: 1.2
+    loop: 0
+    source: {fileID: 0}
+  - name: Answers
+    clip: {fileID: 8300000, guid: 79b2e00dfd6247545acb01a4a2cdd1f2, type: 3}
+    volumeMixer: {fileID: -804010802758732109, guid: ac02a044720e65149b71c4475ee0ce43,
+      type: 2}
+    volume: 0.2
+    pitch: 0.6
+    loop: 0
+    source: {fileID: 0}
+  - name: Correct
+    clip: {fileID: 8300000, guid: 5b86db9c24ad7ce448c0491fd93220aa, type: 3}
+    volumeMixer: {fileID: -804010802758732109, guid: ac02a044720e65149b71c4475ee0ce43,
+      type: 2}
+    volume: 0.1
+    pitch: 0.6
+    loop: 0
+    source: {fileID: 0}
+  - name: MenuChange
+    clip: {fileID: 8300000, guid: 200adc763e221904db09617e6aa4608f, type: 3}
+    volumeMixer: {fileID: -804010802758732109, guid: ac02a044720e65149b71c4475ee0ce43,
+      type: 2}
+    volume: 1
+    pitch: 3
+    loop: 0
+    source: {fileID: 0}
+  - name: HappyLoop
+    clip: {fileID: 8300000, guid: 31f02fe9d0d329c4bbf70d96d6226d9c, type: 3}
+    volumeMixer: {fileID: 5900801127783364748, guid: ac02a044720e65149b71c4475ee0ce43,
+      type: 2}
+    volume: 0.3
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}

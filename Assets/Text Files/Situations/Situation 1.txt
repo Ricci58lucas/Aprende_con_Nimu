@@ -1,0 +1,8 @@
+cantidad de respuestas:4
+respuesta correcta:4
+pista:[Pista]
+situación:{0} sufre bullying por parte de sus compañeros debido a que no le gusta jugar al fútbol en la clase de gimnasia. ¿Qué le dirías a los compañeros?
+respuesta 1:Me burlo de ellos.
+respuesta 2:"Si lo molestan otra vez, los voy a golpear"
+respuesta 3:"Molesten a otro"
+respuesta 4:Les explico que no tiene nada de malo

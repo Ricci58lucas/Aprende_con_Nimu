@@ -1,0 +1,8 @@
+cantidad de respuestas:4
+respuesta correcta:2,4
+pista:[Pista]
+situacion:{0} está muy estresado por la prueba de Matemática que tiene dentro de un mes y no sabe qué hacer. ¿Qué le recomendarías?
+respuesta 1:No estudies, la matemática no sirve para nada
+respuesta 2:Ponete a estudiar unos días antes
+respuesta 3:Estudia uno o dos días antes muchas horas y aprobarás
+respuesta 4:Tranquilo, estudia desde ahora tan solo una hora por dia

@@ -1,0 +1,15 @@
+**/Assets/Mirror/Examples
+**/.vs
+**/Logs
+**/UserSettings
+**/Temp
+**/obj
+**/Packages
+**/ProjectSettings
+
+**/Build
+**/WebGLBuild
+
+**/Library/PlayerDataCache
+**/Library/il2cpp_cache
+Unity Packages

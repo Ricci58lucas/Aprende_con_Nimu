@@ -1,0 +1,7 @@
+cantidad de respuestas:3
+respuesta correcta:1
+pista:[Pista]
+situacion:Los chicos grandes le dicen a {0} que si fuma puede formar parte de su grupo. ¿Qué le dirías?
+respuesta1:“No valen la pena, fumar hace mal a la salud”
+respuesta2:Diles que sí, tener amigos es más importante
+respuesta3:Preguntales si hay otra forma de unirte a ellos

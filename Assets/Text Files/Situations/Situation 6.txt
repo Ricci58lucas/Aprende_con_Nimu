@@ -1,0 +1,7 @@
+cantidad de respuestas:3
+respuesta correcta:3
+pista:[Pista]
+situacion:{0} juega videojuegos en línea. Otros jugadores se percatan de que ella es una chica y la acosan debido a ello. ¿Qué le recomendarías?
+respuesta1:No hacer nada
+respuesta2:Insultarlos
+respuesta3:Bloquear y reportar a esos jugadores

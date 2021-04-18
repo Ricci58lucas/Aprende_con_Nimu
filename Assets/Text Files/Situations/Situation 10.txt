@@ -1,0 +1,7 @@
+cantidad de respuestas:3
+respuesta correcta:2
+pista:[Pista]
+situacion:{0} ve como unos chicos le dicen unas cosas feas a su amiga ¿Que tendría que hacer?
+respuesta1:No hacer nada, el ataque no es hacia vos
+respuesta2:Irse ambas y buscar una autoridad
+respuesta3:Decirles cosas feas para que entiendan lo que se siente

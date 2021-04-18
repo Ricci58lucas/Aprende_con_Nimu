@@ -1,0 +1,6 @@
+cantidad de respuestas:2
+respuesta correcta:1
+pista:[Pista]
+situación:A {0} le gustan los chicos. Pero su abuelo le dice que eso está mal. ¿Qué le dirías?
+respuesta 1:No le hagas caso en eso, tus gustos están perfectos
+respuesta 2:Tu abuelo tiene razón. Te tienen que gustar las chicas

@@ -1,0 +1,7 @@
+cantidad de respuestas:3
+respuesta correcta:1
+pista:[Pista]
+situacion:{0} necesita usar anteojos para poder ver mejor, pero tiene miedo de que sus compañeros la molesten, ¿Que le dirias?
+respuesta1:Los anteojos ayudan a ver mejor y eso es lo único que importa, no tengas avergüenza
+respuesta2:Úsalos cuando no te vean
+respuesta3:Si te dan vergüenza no los uses

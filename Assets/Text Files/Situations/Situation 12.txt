@@ -1,0 +1,6 @@
+cantidad de respuestas:2
+respuesta correcta:1
+pista:[Pista]
+situacion:Durante la clase, {0} se siente muy mal. Pero no quiere decir nada porque le da vergüenza ¿Qué le recomendarías?
+respuesta1:Avisarle a una autoridad con quién se sienta cómoda
+respuesta2:No decir nada hasta llegar a casa

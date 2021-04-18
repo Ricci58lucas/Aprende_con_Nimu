@@ -1,0 +1,8 @@
+cantidad de respuestas:4
+respuesta correcta:2
+pista:[Pista]
+situación:Las compañeras de {0} la molestan por su cuerpo. ¿Qué le dirías?
+respuesta 1:Solo son consejos para que entiendas lo que está mal
+respuesta 2:Todos los cuerpos son lindos, no dejes que sus insultos te hieran
+respuesta 3:Molestarlas a ellas para que vean cómo se siente
+respuesta 4:Solo son bromas

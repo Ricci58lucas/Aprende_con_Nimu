@@ -1,0 +1,7 @@
+cantidad de respuestas:3
+respuesta correcta:2
+pista:[Pista]
+situación:{0} prefiere jugar con los autitos que con las muñecas. Ella siente que sus gustos están mal. ¿Qué le dirías?
+respuesta 1:¡Jugá con muñecas, los autos son para chicos!
+respuesta 2:Tus gustos están bien, juega con lo que te sientas cómoda
+respuesta 3:Puedes jugar con los autitos, pero hacelo sin que te vean
